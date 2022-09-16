@@ -6,9 +6,9 @@ Front-End Developer (BlockChain coming soon...)
 
 I have always been interested in technology and development. In 2021 I learned Flutter to make an App. Since from there I always keep learning other technologies, I start 2022 learning FrontEnd development and BlockChain development.
 
-* 🌍  I'm based in Santiago
+* 🌍  I'm based in Santiago, Chile
 * 🖥️  See my portfolio at [Portafolio](http://guilad.me)
-* ✉️  You can contact me at [gpguilad@gmail.com](mailto:gpguilad@gmail.com)
+* ✉️  You can contact me at [my email](mailto:gpguilad@gmail.com)
 * 🧠  I'm learning Blockchain Ecosystem
 * 🤝  I'm open to collaborating on Startups and Valious experiences
 
